@@ -39,6 +39,8 @@ cmake-build-release/
 # VS
 .vs/
 out/
+bin/
+*.csproj
 
 # Terminal
 build/
